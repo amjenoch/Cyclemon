@@ -1,0 +1,149 @@
+
+*
+{
+	margin:0;
+	padding: 0;
+}
+
+body
+{
+	font-family: arial;
+}
+
+header h2
+{
+	margin-left: 10px;
+}
+
+header nav div ul
+{
+	float: right;
+	margin-top: -45px;
+	list-style:none;
+}
+
+header nav div ul li
+{
+	float: left;
+	margin-right: 30px;
+}
+
+header nav div ul li a
+{
+  text-decoration: none;
+  color: black;
+}
+
+header nav div ul li a:hover
+{
+  border-bottom: 2px solid red;
+}
+
+button
+{
+	background: #fc0000;
+	height: 25px;
+	width: 80px;
+	color: white;
+	border-radius: 10px;
+}
+
+.bienvenue
+{
+	margin-top: -600px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 65px;
+
+}
+
+.Forma
+{
+	color: red;
+	text-align: center;
+	font-size: 50px;
+}
+
+.text
+{
+	margin-left: 1080px;
+	font-size: 25px;
+	line-height: 30px;
+}
+ .border
+ {
+ 	margin-left: 300px;
+ 	margin-top: -250px; 
+ 	border: 2px solid red;
+ 	border-radius: 300px;
+ 	height: 300px;
+ 	width: 600px;
+ }
+
+.formation
+{
+	font-size: 90px;
+	font-family: none;
+	margin-top: 350px;
+	margin-left: 50px;
+}
+
+.develop
+{
+	font-size: 35px;
+	margin-left: 20px;
+}
+
+.img
+{
+	border: 2px solid red;
+	opacity: 0.3;
+	height: 300px;
+}
+
+.formation2
+{
+	margin-left: 40px;
+	border: 2px solid red;
+	width: 600px;
+	height: 550px;
+}
+
+footer
+{
+	height:100px;
+}
+
+.foot
+{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin-top: -80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
